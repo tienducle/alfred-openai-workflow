@@ -1,0 +1,9 @@
+__pycache__
+
+storage.json
+
+# Alfred
+prefs.plist
+
+# IDE
+.idea

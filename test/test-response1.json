@@ -1,0 +1,43 @@
+{
+  "id": "cmpl-6pwq5OT7RwJaGPDVJnW9vxP9v03nE",
+  "object": "text_completion",
+  "created": 1677838925,
+  "model": "text-curie-001",
+  "choices": [
+    {
+      "text": "\n\nDer Sinn des Lebens ist die Erfüllung unserer Prophezeiungen.",
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": null
+    },
+    {
+      "text": "\n\nDie menschliche Psyche versucht Sicherheit zu finden im Unsicherheiten des Lebens. Das Leben enthält viele Überraschungen und neue Entdeckungen, die es zu erleben gibt.\n\n",
+      "index": 1,
+      "logprobs": null,
+      "finish_reason": "stop"
+    },
+    {
+      "text": "\n\nEs gibt verschiedene Antworten auf diese Frage. Eine Version besagt, dass der Sinn des Lebens allgemein die Unvergänglichkeit des menschlichen Lebens ist. Eine andere Version behauptet, dass der Sinn des Lebens die Freude am Leben ist. Andere meinen, dass der Sinn des Lebens alles ist, was wir tun können, um unsere Bedürfnisse zu befriedigen.",
+      "index": 2,
+      "logprobs": null,
+      "finish_reason": "stop"
+    },
+    {
+      "text": ",\n\nEs gibt verschiedene Antworten auf diese Frage. Eine Version besagt, dass der Sinn des Lebens allgemein die Unvergänglichkeit des menschlichen Lebens ist. Eine andere Version behauptet, dass der Sinn des Lebens die Freude am Leben ist. Andere meinen, dass der Sinn des Lebens alles ist, was wir tun können, um unsere Bedürfnisse zu befriedigen.",
+      "index": 3,
+      "logprobs": null,
+      "finish_reason": "stop"
+    },
+    {
+      "text": "?\n\nEs gibt verschiedene Antworten auf diese Frage. Eine Version besagt, dass der Sinn des Lebens allgemein die Unvergänglichkeit des menschlichen Lebens ist. Eine andere Version behauptet, dass der Sinn des Lebens die Freude am Leben ist. Andere meinen, dass der Sinn des Lebens alles ist, was wir tun können, um unsere Bedürfnisse zu befriedigen.",
+      "index": 4,
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 10,
+    "completion_tokens": 217,
+    "total_tokens": 227
+  }
+}
